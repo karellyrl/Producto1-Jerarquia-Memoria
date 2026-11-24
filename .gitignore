@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+entrenamiento.csv
+prueba.csv
+clima_unificado.csv
+resultados.csv
+shared_disk_memory/
+*.ovpn
+.env
+credentials.json
+token.json
