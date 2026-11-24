@@ -2,6 +2,14 @@
 
 Aplicación en Python que lee registros meteorológicos por bloques y los clasifica como lluvia o sin lluvia. Se compara el intercambio de datos mediante disco, memoria compartida local y memoria remota con KAX. El productor y el consumidor se ejecutan en procesos separados y utilizan un buffer limitado por un semáforo.
 
+## Archivos de datos
+
+Los archivos utilizados en el proyecto se encuentran disponibles en Google Drive debido a su tamaño.
+
+- [Datos originales (8 GB)] https://drive.google.com/file/d/11Zl8Jzu1_TiTPp3sIOY1ICr-4Y1m_4oR/view?usp=drive_link
+- [Datos de entrenamiento (2014-2017)] https://drive.google.com/file/d/1UIRh5_TziuulEJDDLUpG6mYsSRubvbZK/view?usp=drive_link
+- [Datos de prueba (2018)] https://drive.google.com/file/d/1qnNtmLJeqrVT7wpFFKYSQZSDN6NAR1c9/view?usp=drive_link
+
 ## Instalación
 
 En Linux/Ubuntu, con Python 3.10 o compatible:
